@@ -1,5 +1,5 @@
 import yayJpg from '../assets/yay.jpg';
-
+import 'antd/dist/antd.css';
 export default function HomePage() {
   return (
     <div>
